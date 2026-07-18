@@ -39,3 +39,8 @@ It uses **The Movie Database (TMDb) API** to fetch real-time movie data and prov
 
 ---
 
+## 🚀 Live Demo
+
+🔗 https://movie-guide-chi.vercel.app/
+
+---
